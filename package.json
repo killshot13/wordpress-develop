@@ -100,7 +100,7 @@
 		"@wordpress/dom": "2.13.1",
 		"@wordpress/dom-ready": "2.10.0",
 		"@wordpress/edit-post": "3.21.3",
-		"@wordpress/editor": "9.20.3",
+		"@wordpress/editor": "9.25.10",
 		"@wordpress/element": "2.16.0",
 		"@wordpress/escape-html": "1.9.0",
 		"@wordpress/format-library": "1.22.3",
